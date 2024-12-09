@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="status_bar">#0E3165</color>
+    <color name="bg_navigation_bar">#0E3165</color>
+    <color name="text_navigation_bar">#FFFFFF</color>
+    <color name="bg_screen">#FFFFFF</color>
+    <color name="loading_indicator">#FFC967</color>
+    <color name="screen_title">#FFFFFF</color>
+    <color name="text">#000000</color>
+    <color name="error_title">#FFFFFF</color>
+    <color name="bg_error">#000000</color>
+    <color name="repeat_error_button">#FFC967</color>
+    <color name="rating">#0E3165</color>
+    <color name="select_item">#FFC967</color>
+    <color name="unselect_item">#FFFFFF</color>
+    <color name="genre_text">#4B4B4B</color>
+    <color name="image_view_background">#EFEFEF</color>
+
+
+</resources>

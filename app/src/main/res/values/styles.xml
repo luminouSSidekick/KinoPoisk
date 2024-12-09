@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MainTitleText" parent="android:Widget.TextView">
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="NavigationBar">
+        <item name="android:background">@color/bg_navigation_bar</item>
+        <item name="titleTextColor">@color/text_navigation_bar</item>
+    </style>
+
+    <style name="GenresTitleText" parent="android:Widget.TextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+    </style>
+
+    <style name="FilmCardText" parent="android:Widget.TextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <style name="LoadingView">
+        <item name="indicatorColor">#FFC967</item>
+    </style>
+
+</resources>
